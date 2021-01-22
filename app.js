@@ -2,7 +2,7 @@ const API_URL = 'https://trackapi.nutritionix.com/v2/search'
 const X_APP_ID = '2b73860b'
 const X_APP_KEY = '3021e4b8b20e1bd8b5bb19d38c129c6c'
 const previousSearch = []
-const DEBUG = false; //to see helpful notes, set to true
+const DEBUG = true //to see helpful notes, set to true
 
 // All items - /instant?query=${searchTerm}
 // Single - /item?nix_item_id=${itemId} // `branded.nix_item_id`
