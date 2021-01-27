@@ -35,15 +35,3 @@ async function getSingleFood(itemId){
 }
 
 //3. update the page with data...
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
